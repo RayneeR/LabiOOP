@@ -1,0 +1,15 @@
+/Users/andreychernyavsky/Desktop/NewRepLabi/LabiOOP/bin/Debug/net6.0/LabiOOP
+/Users/andreychernyavsky/Desktop/NewRepLabi/LabiOOP/bin/Debug/net6.0/LabiOOP.deps.json
+/Users/andreychernyavsky/Desktop/NewRepLabi/LabiOOP/bin/Debug/net6.0/LabiOOP.runtimeconfig.json
+/Users/andreychernyavsky/Desktop/NewRepLabi/LabiOOP/bin/Debug/net6.0/LabiOOP.dll
+/Users/andreychernyavsky/Desktop/NewRepLabi/LabiOOP/bin/Debug/net6.0/LabiOOP.pdb
+/Users/andreychernyavsky/Desktop/NewRepLabi/LabiOOP/obj/Debug/net6.0/LabiOOP.csproj.AssemblyReference.cache
+/Users/andreychernyavsky/Desktop/NewRepLabi/LabiOOP/obj/Debug/net6.0/LabiOOP.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andreychernyavsky/Desktop/NewRepLabi/LabiOOP/obj/Debug/net6.0/LabiOOP.AssemblyInfoInputs.cache
+/Users/andreychernyavsky/Desktop/NewRepLabi/LabiOOP/obj/Debug/net6.0/LabiOOP.AssemblyInfo.cs
+/Users/andreychernyavsky/Desktop/NewRepLabi/LabiOOP/obj/Debug/net6.0/LabiOOP.csproj.CoreCompileInputs.cache
+/Users/andreychernyavsky/Desktop/NewRepLabi/LabiOOP/obj/Debug/net6.0/LabiOOP.dll
+/Users/andreychernyavsky/Desktop/NewRepLabi/LabiOOP/obj/Debug/net6.0/refint/LabiOOP.dll
+/Users/andreychernyavsky/Desktop/NewRepLabi/LabiOOP/obj/Debug/net6.0/LabiOOP.pdb
+/Users/andreychernyavsky/Desktop/NewRepLabi/LabiOOP/obj/Debug/net6.0/LabiOOP.genruntimeconfig.cache
+/Users/andreychernyavsky/Desktop/NewRepLabi/LabiOOP/obj/Debug/net6.0/ref/LabiOOP.dll
